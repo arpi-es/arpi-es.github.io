@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### 	Application Published at GooglePlay
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
+<img src="https://play-lh.googleusercontent.com/vrw-s34bqU-gfNbYQFgaf2AbfQAtEncPjbH2H-CPcLD4Hh869ufFJlg-ZgQWwtI7=s180-rw"/>
 
 ---
 
