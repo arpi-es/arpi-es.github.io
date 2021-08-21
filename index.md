@@ -3,9 +3,6 @@
 ---
 
 ### 	Applications Published at GooglePlay
-
-<ul>
- 
   
 [Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
   
@@ -28,8 +25,6 @@
 [Snakes & Ladders](https://play.google.com/store/apps/details?id=com.ohanian.snakesandladders)
 
 <img src="https://play-lh.googleusercontent.com/uBzAGyj1J2tPGnQKs53kzZpS1zYO03_UUYGnitaUgeUE__hmCOWfeQ8ayvU9KXtRP8U=s180-rw"/>
-</ul>
-
 ---
 
 ### Category Name 2
