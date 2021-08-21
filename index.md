@@ -4,10 +4,11 @@
 
 ### 	Applications Published at GooglePlay
 
-[Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
+<ul>
 
+<li>[Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
 <img src="https://play-lh.googleusercontent.com/vrw-s34bqU-gfNbYQFgaf2AbfQAtEncPjbH2H-CPcLD4Hh869ufFJlg-ZgQWwtI7=s180-rw"/>
-
+</li>
 
 [Kiddos in Kindergarten](https://play.google.com/store/apps/details?id=com.ohanian.kiddosinkindergarten)
 
@@ -25,6 +26,7 @@
 [Snakes & Ladders](https://play.google.com/store/apps/details?id=com.ohanian.snakesandladders)
 
 <img src="https://play-lh.googleusercontent.com/uBzAGyj1J2tPGnQKs53kzZpS1zYO03_UUYGnitaUgeUE__hmCOWfeQ8ayvU9KXtRP8U=s180-rw"/>
+</ul>
 
 ---
 
