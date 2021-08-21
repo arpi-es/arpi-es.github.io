@@ -4,7 +4,7 @@
 
 ### 	Applications Published at GooglePlay
 
-[Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
+<p>[Happiness Train]</p>(https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
 
 <img src="https://play-lh.googleusercontent.com/vrw-s34bqU-gfNbYQFgaf2AbfQAtEncPjbH2H-CPcLD4Hh869ufFJlg-ZgQWwtI7=s180-rw"/>
 
