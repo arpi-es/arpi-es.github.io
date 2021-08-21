@@ -5,12 +5,12 @@
 ### 	Applications Published at GooglePlay
 
 <ul>
-
-<li>
+ 
+  
 [Happiness Train](https://play.google.com/store/apps/details?id=com.ohanian.happinesstrain)
   
 <img src="https://play-lh.googleusercontent.com/vrw-s34bqU-gfNbYQFgaf2AbfQAtEncPjbH2H-CPcLD4Hh869ufFJlg-ZgQWwtI7=s180-rw"/>
-</li>
+ 
 
 [Kiddos in Kindergarten](https://play.google.com/store/apps/details?id=com.ohanian.kiddosinkindergarten)
 
